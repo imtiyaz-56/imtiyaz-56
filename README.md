@@ -18,7 +18,7 @@
 <img src="./imtiyaz-id.svg?v=2" alt="Shekh Imtiyaz ID badge" width="330"/>
 
 </td>
-<td width="62%" valign="middle">
+<td width="75%" valign="middle">
 
 ### 🌸 My Anime Creations
 
