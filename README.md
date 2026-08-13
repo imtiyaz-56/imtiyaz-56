@@ -12,7 +12,7 @@
 
 <table align="center" border="0">
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
 <img src="./imtiyaz-id.svg?v=2" alt="Shekh Imtiyaz ID badge" width="330"/>
@@ -20,7 +20,7 @@
 </td>
 <td width="75%" valign="middle">
 
-### 🌸 My Anime Creations
+### My Projects
 
 | 🎌 Project | 💻 Tech |
 |:---|:---:|
