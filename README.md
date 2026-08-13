@@ -42,9 +42,9 @@
 
 <div align="center">
 
-### 📊 GitHub Stats & Graphs
+### 📊 Technical Skills
 
-<img src="./imtiyaz-skills.svg?v=2" alt="Technical Skills" height="185"/>
+<img src="./imtiyaz-skills.svg?v=2" alt="Technical Skills" height="200"/>
 
 <br/><br/>
 
@@ -53,10 +53,6 @@
 <a href="mailto:sheikhimtiyaz3333@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/imtiyaz-56"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.instagram.com/shekh_imtiyaz56?igsh=eTd5M2F1OW9lcnph"><img src="https://img.shields.io/badge/Instagram-e879f9?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
