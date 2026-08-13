@@ -83,8 +83,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
         <circle cx="210" cy="412" r="55"/>
       </clipPath>
       <circle cx="210" cy="412" r="55" fill="#0b1b36"/>
-      <image
-        href="image.png" xlink:href="image.png"
+      <image href="./image.png"
         x="155" y="357" width="110" height="110"
         preserveAspectRatio="xMidYMid slice"
         clip-path="url(#avatarClip)"
