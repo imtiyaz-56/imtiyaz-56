@@ -58,10 +58,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=imtiyaz-56&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
 *⭐️ Always learning, always building.* 💗
 
 </div>
