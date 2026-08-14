@@ -136,6 +136,24 @@ Interest Calculator
 <br/><br/>
 
 <!-- ====================================================== -->
+<!-- 📈 GITHUB CONTRIBUTIONS -->
+<!-- ====================================================== -->
+
+<div align="center">
+
+<h3>📈 GitHub Contributions</h3>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=imtiyaz-56&bg_color=0d1117&color=3b82f6&line=60a5fa&point=ffffff&area=true&hide_border=true"
+  alt="Shekh Imtiyaz GitHub Contribution Graph"
+  width="95%"
+/>
+
+</div>
+
+<br/><br/>
+
+<!-- ====================================================== -->
 <!-- 📫 LET'S CONNECT -->
 <!-- ====================================================== -->
 
