@@ -39,7 +39,7 @@
 
 <td align="center" valign="middle">
 
-<h3>🌸 My Anime Creations</h3>
+<h3>🚀 My Projects</h3>
 
 <table align="center">
 <tr>
