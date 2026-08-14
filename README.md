@@ -44,7 +44,7 @@
 
 ### 📊 Technical Skills
 
-<img src="./imtiyaz-skills.svg?v=2" alt="Technical Skills" height="185"/>
+<img src="./imtiyaz-skills.svg?v=2" alt="Technical Skills" height="700"/>
 
 <br/><br/>
 
